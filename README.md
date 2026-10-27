@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SoubhagyaRanjan99
-- 👀 I’m interested in ... Java Coding
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Programs and coding
+- 👀 I’m interested in ... Prompt Engineering/AI Safety & Responsible AI roles
+- 🌱 I’m currently learning ... LLM
 - 📫 How to reach me ... ranjansoubhagyagugu@gmail.com
 
 <!---
